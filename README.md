@@ -45,13 +45,11 @@ The following links are to be used for the general purpose of training:
 ---
 1. Familiarize yourself with American accents in [Rachel's English YouTube Channel](https://www.youtube.com/channel/UCvn_XCl_mgQmt3sD753zdJA)
 2. Search for reference in most English topics on [Grammarly Blog](https://www.grammarly.com/blog)
-3. Khan Academy's Curated Online Content for standard curriculum English
-     
+3. Khan Academy's Curated Online Content for standard curriculum English 
     - [The parts of speech \| Grammar \| Khan Academy](https://www.youtube.com/watch?v=-PhyqbvnoCg&list=PLSQl0a2vh4HCBK6dHaH_IDcD7pqketGEg)
     - [Punctuation \| Grammar \| Khan Academy](https://www.youtube.com/playlist?list=PLSQl0a2vh4HAei_k1w8rMpxsWXpMNa87J)
 
 4. Jennifer Marie's YouTube Channels
-    
     - [Sparkle English](https://www.youtube.com/channel/UC_fZnRqQUdOeBXnYilEkIcQ)
     - [Jennifer Marie](https://www.youtube.com/channel/UC-ooPg34j8PK3osA4l-726Q)
 
