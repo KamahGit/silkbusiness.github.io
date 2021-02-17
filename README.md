@@ -1,4 +1,6 @@
-# **Welcome to Silk Online**
+**Welcome to Silk Online**
+---
+
 **DISCLAIMER: WHILE THE FOLLOWING RESOURCES MAY BE ACCURATE IN GENERAL ENGLISH, THE NUMBER ONE SOURCE OF INFORMATION IS THE _REV STYLE GUIDE_**
 
 The following links are to be used for the general purpose of training:
@@ -73,4 +75,9 @@ The following links are to be used for the general purpose of training:
 4. Jennifer Marie's YouTube Channels
     - [Sparkle English](https://www.youtube.com/channel/UC_fZnRqQUdOeBXnYilEkIcQ)
     - [Jennifer Marie](https://www.youtube.com/channel/UC-ooPg34j8PK3osA4l-726Q)
+---
+Download scheme of work [here](https://github.com/silkbusiness/silkbusiness.github.io/raw/main/scheme%20of%20work%20traininng%20contdd.doc)
 
+
+
+> _Be Blessed!_
