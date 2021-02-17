@@ -2,6 +2,9 @@
 The following links are to be used for the general purpose of training:
 
 ---
+> ### Introduction to transcription
+1. [TRANSCRIPTION TUTORIAL FOR BEGINNERS WITH A DEMO ON CLEAN READ&VERBATIM JOBS& THE MISTAKES TO AVOID](https://www.youtube.com/watch?v=d5nFu5ptQzc)
+2. [Rev Transcription Test Application Process and Tutorial: How to Pass](https://youtu.be/OK5fY8LmviM)
 
 
 > ### Introduction to grammar
@@ -17,7 +20,7 @@ The following links are to be used for the general purpose of training:
 7. [Coordinating Conjunctions: FANBOYS](https://youtu.be/9U9klLSgsKo)
 8. [Subordinating conjunctions \| The parts of speech \| Grammar \| Khan Academy](https://www.youtube.com/watch?v=IKrRuDWEP68)
 9. [Common and proper nouns \| The parts of speech \| Grammar \| Khan Academy](https://youtu.be/bGz1acC3Wew?list=PLSQl0a2vh4HCBK6dHaH_IDcD7pqketGEg)
-
+10. [Capitalization Rules - When to Use Uppercase and Capital Letters \| English Writing Essentials \| ESL](https://www.youtube.com/watch?v=KdJL9qJ8t0A&list=PLjVfK1-aLReJiUqFNOn04EBsWNe6Ewubq&index=15)
 
 > ### Punctuation
 
