@@ -56,6 +56,9 @@ The following links are to be used for the general purpose of training:
 26. [Quotation Mark Rules \| How To Use Quotation Marks \| English Writing essentials \| ESL Grammar Lesson](https://www.youtube.com/watch?v=F_yYYoqkZl8)
 27. [How to Punctuate Quotations in Statements](https://www.dummies.com/education/language-arts/grammar/how-to-punctuate-quotations-in-statements/)
 
+#### Homophones & Homonyms
+1. [English Mini Lessons - Homophones and Homonyms](https://www.youtube.com/playlist?list=PLw14MM5ez_6UWNRd3FMl7NQyWR8u8YCrA)
+2. [Homonyms and Homophones – The Most Common Homophones in English – Learn Grammar](https://www.youtube.com/watch?v=SMRx36QXdsI)
 
 
 ### Additional Resources
