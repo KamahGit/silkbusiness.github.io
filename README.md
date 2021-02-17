@@ -7,7 +7,7 @@ The following links are to be used for the general purpose of training:
 > ### Introduction to grammar
 
 
-1. [Basic English Grammar: Parts of Speech](https://www.youtube.com/watch?v=SceDmiBEESI) 
+1. [Basic English Grammar: Parts of Speech](https://www.youtube.com/watch?v=SceDmiBEESI){:target="_blank"} 
 2. [The 8 Parts of Speech: Examples and Rules](https://www.grammarly.com/blog/parts-of-speech/)
 2. [What is a sentence? \| Syntax \| Khan Academy](https://youtu.be/TeiuG81mbII)
 3. [Subjects and predicates \| Syntax \| Khan Academy](https://youtu.be/qXykcBGNvbk)
