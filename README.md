@@ -21,7 +21,10 @@ The following links are to be used for the general purpose of training:
 
 > ### Punctuation
 
+#### Full Stop
 11. [Period and Full Stop Rules \| How to Use Periods in English \| Punctuation and Writing Essentials](https://www.youtube.com/watch?v=GVdiQEtbrE8)
+
+#### Comma
 12. [Meet the Comma \| Punctuation \| Grammar \| Khan Academy](https://www.youtube.com/watch?v=Wk0k2FLjM1c&list=PLSQl0a2vh4HAei_k1w8rMpxsWXpMNa87J&index=8)
 13. [8 Comma Rules \| How to Use Commas \| English Writing Essentials](https://www.youtube.com/watch?v=tLlfuIAjaC0)
 14. [Commas and introductory elements \| Punctuation \| Grammar \| Khan Academy](https://www.youtube.com/watch?v=NvGBug8iORE&list=PLSQl0a2vh4HAei_k1w8rMpxsWXpMNa87J&index=4)
@@ -30,12 +33,20 @@ The following links are to be used for the general purpose of training:
 17. [Comma Rules: A Quick Guide \| Grammarly](https://www.grammarly.com/blog/comma/)
 18. [Comma Before And](https://www.grammarly.com/blog/comma-before-and/)
 19. [When to Use a Comma Before “Or”](https://www.grammarly.com/blog/comma-before-or/)
+
+#### Semicolon
 20. [Semicolon Rules: How to Use the Semicolon when Writing in English \| Punctuation Essentials \| ESL](https://www.youtube.com/watch?v=Rr2UeP-rPVs)
 21. [Semicolon](https://www.grammarly.com/blog/semicolon/)
+
+#### Colon
 22. [Colons: When to Use a Colon in a Sentence \| English Writing and Punctuation Essentials](https://www.youtube.com/watch?v=p40K494L7VQ)
 23. [Grammarly - Colons](https://www.grammarly.com/blog/colon-2/)
+
+#### Apostrophe
 24. [Apostrophe Rules \| How to Use Apostrophes \| English Writing Essentials](https://www.youtube.com/watch?v=gZ2SNzHON4E)
 25. [Apostrophe Rules](https://www.grammarly.com/blog/apostrophe/)
+
+#### Quotation marks
 26. [Quotation Mark Rules \| How To Use Quotation Marks \| English Writing essentials \| ESL Grammar Lesson](https://www.youtube.com/watch?v=F_yYYoqkZl8)
 27. [How to Punctuate Quotations in Statements](https://www.dummies.com/education/language-arts/grammar/how-to-punctuate-quotations-in-statements/)
 
