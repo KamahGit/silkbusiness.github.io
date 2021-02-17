@@ -3,6 +3,7 @@ The following links are to be used for the general purpose of training:
 
 ---
 > ### Introduction to transcription
+
 1. [TRANSCRIPTION TUTORIAL FOR BEGINNERS WITH A DEMO ON CLEAN READ&VERBATIM JOBS& THE MISTAKES TO AVOID](https://www.youtube.com/watch?v=d5nFu5ptQzc)
 2. [Rev Transcription Test Application Process and Tutorial: How to Pass](https://youtu.be/OK5fY8LmviM)
 
