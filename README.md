@@ -1,4 +1,6 @@
 # **Welcome to Silk Online**
+**DISCLAIMER: WHILE THE FOLLOWING RESOURCES MAY BE ACCURATE IN GENERAL ENGLISH, THE NUMBER ONE SOURCE OF INFORMATION IS THE REV STYLE GUIDE**
+
 The following links are to be used for the general purpose of training:
 
 ---
